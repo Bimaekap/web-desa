@@ -70,6 +70,8 @@
                             </ul>
                         </li>
 
+                        <li><a class="nav-link" href="../frontend/index.html"><i class="fas fa-user"></i> <span>Website</span></a></li>
+
                 </aside>
             </div>
             </section>
